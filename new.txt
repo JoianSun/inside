@@ -1,4 +1,4 @@
-new file
+新文件
 this is not a new file.
 专业拆迁队
 尝试使用一种更加干净的merge方式
